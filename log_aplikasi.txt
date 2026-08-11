@@ -1,2 +1,0 @@
-[2026-08-11 06:08:30] [INFO] Aplikasi EcoWarga Dimulai.
-[2026-08-11 06:08:31] [INFO] Berhasil mencetak 0 data transaksi ke C:\Users\admin\Documents\UAS_AP2_R01_25306621009_FABIAN HADI NUGRAHA\log_transaksi.txt.
